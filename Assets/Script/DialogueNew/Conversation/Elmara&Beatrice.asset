@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45eecf75598cb942af18d5878d5cad7, type: 3}
+  m_Name: Elmara&Beatrice
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterInformation: {fileID: 11400000, guid: 9213a84ed9cb81f47b5d7e448bc009ab,
+      type: 2}
+    text: Thank you!
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "You\u2019re welcome!"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "What\u2019s your name? "
+  - characterInformation: {fileID: 11400000, guid: 9213a84ed9cb81f47b5d7e448bc009ab,
+      type: 2}
+    text: My name is Elmara
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Nice to meet you, Elmara!
+  - characterInformation: {fileID: 11400000, guid: 9213a84ed9cb81f47b5d7e448bc009ab,
+      type: 2}
+    text: Me too!
+  - characterInformation: {fileID: 11400000, guid: 9213a84ed9cb81f47b5d7e448bc009ab,
+      type: 2}
+    text: Where are the other villagers?
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: The villagers who still alive have fled to the fairy island located on
+      the outskirts of the village
+  - characterInformation: {fileID: 11400000, guid: 9213a84ed9cb81f47b5d7e448bc009ab,
+      type: 2}
+    text: Hmm, could you bring me there?
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "Ahh, I\u2019m so sorry. I can\u2019t :(\r\nThere are still other villagers
+      I need to save.\r\n"
+  - characterInformation: {fileID: 11400000, guid: 9213a84ed9cb81f47b5d7e448bc009ab,
+      type: 2}
+    text: "Ok don\u2019t worries\u2026\r Be careful!\r\n"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Thank you!

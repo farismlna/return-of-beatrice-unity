@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14c731127e3b33c408c6cd26b81ee433, type: 3}
+  m_Name: Isabelle & MC
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: ee844e67580a5b64e9d31c02b4ef3587, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2876c49e91f2ddd4587f73cda3fd68d8, type: 2}
+  lines:
+  - chara: {fileID: 11400000, guid: ee844e67580a5b64e9d31c02b4ef3587, type: 2}
+    text: "Hallo Beatrice\u2026"
+  - chara: {fileID: 11400000, guid: 2876c49e91f2ddd4587f73cda3fd68d8, type: 2}
+    text: Hallo..
+  - chara: {fileID: 11400000, guid: ee844e67580a5b64e9d31c02b4ef3587, type: 2}
+    text: "I\u2019m Isabelle, I'll help you free this village from the skeletons."
+  - chara: {fileID: 11400000, guid: 2876c49e91f2ddd4587f73cda3fd68d8, type: 2}
+    text: Thank you isabelle for your instruction, next what should I do?
+  - chara: {fileID: 11400000, guid: ee844e67580a5b64e9d31c02b4ef3587, type: 2}
+    text: "Destroy the skulls and save the villagers then take them to the fairy
+      island that I provided\u2026"
+  - chara: {fileID: 11400000, guid: 2876c49e91f2ddd4587f73cda3fd68d8, type: 2}
+    text: "Where\u2019s fairy island? I don\u2019t know\u2026"
+  - chara: {fileID: 11400000, guid: ee844e67580a5b64e9d31c02b4ef3587, type: 2}
+    text: Ask a clown and the bartender for some information..
+  - chara: {fileID: 11400000, guid: 2876c49e91f2ddd4587f73cda3fd68d8, type: 2}
+    text: Ahh, ok fairy isabelle, thank you so much
+  - chara: {fileID: 11400000, guid: ee844e67580a5b64e9d31c02b4ef3587, type: 2}
+    text: "You\u2019re welcome, I\u2019ll always be there for you"

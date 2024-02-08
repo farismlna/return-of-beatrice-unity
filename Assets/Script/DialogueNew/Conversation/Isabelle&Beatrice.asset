@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45eecf75598cb942af18d5878d5cad7, type: 3}
+  m_Name: Isabelle&Beatrice
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterInformation: {fileID: 11400000, guid: 170ba467ba3a12f43b716fd40aceb646,
+      type: 2}
+    text: "Hallo Beatrice\u2026"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Hallo..
+  - characterInformation: {fileID: 11400000, guid: 170ba467ba3a12f43b716fd40aceb646,
+      type: 2}
+    text: "I\u2019m fairy isabelle, I'll help you free the skeletons from this village."
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Thank you isabelle for your instruction, next what should I do?
+  - characterInformation: {fileID: 11400000, guid: 170ba467ba3a12f43b716fd40aceb646,
+      type: 2}
+    text: Destroy the skulls and save the villagers then take them to the fairy island
+      that I provided
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "Where\u2019s fairy island? I don\u2019t know\u2026"
+  - characterInformation: {fileID: 11400000, guid: 170ba467ba3a12f43b716fd40aceb646,
+      type: 2}
+    text: Explore the outskirts of the village until you find 2 large statues.
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Ahh, ok fairy isabelle, thank you so much
+  - characterInformation: {fileID: 11400000, guid: 170ba467ba3a12f43b716fd40aceb646,
+      type: 2}
+    text: "You\u2019re welcome, I\u2019ll always be there for you"

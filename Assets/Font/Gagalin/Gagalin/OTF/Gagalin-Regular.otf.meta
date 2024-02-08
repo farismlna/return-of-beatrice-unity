@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ec714119126c4424ca238cf0008301bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gagalin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f356975f012df32489ba124fef876be6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

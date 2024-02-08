@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45eecf75598cb942af18d5878d5cad7, type: 3}
+  m_Name: Bicola & Beatrice 2
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: Hi Beatrice, Thanks! I've met my father
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "Ah, so happy to hear that. Where\u2019s your father now?"
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: "He\u2019s in our tent"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Owh, ok!

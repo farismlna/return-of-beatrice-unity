@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45eecf75598cb942af18d5878d5cad7, type: 3}
+  m_Name: Aria&Beatrice
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterInformation: {fileID: 11400000, guid: 5325fe2ce8b833140aca6cda3441e108,
+      type: 2}
+    text: Thank you for helping me!
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Hi, Aria. Nice to help you!
+  - characterInformation: {fileID: 11400000, guid: 5325fe2ce8b833140aca6cda3441e108,
+      type: 2}
+    text: "We\u2019ve been looking for you for so long, and finally you came here!"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Ahh, I've heard that skeleton magicians are attacking this village
+  - characterInformation: {fileID: 11400000, guid: 5325fe2ce8b833140aca6cda3441e108,
+      type: 2}
+    text: "Exactly! Please help us to save this village and bring it to a peaceful
+      place\r\r"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Of course

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45eecf75598cb942af18d5878d5cad7, type: 3}
+  m_Name: Jagalas&Beatrcie
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterInformation: {fileID: 11400000, guid: 8985096735b9d324bb717c185ffb1e31,
+      type: 2}
+    text: "Arghh\u2026 Beatrice"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Oh God, Mr. Jagalas! my sword teacher. Are you ok?
+  - characterInformation: {fileID: 11400000, guid: 8985096735b9d324bb717c185ffb1e31,
+      type: 2}
+    text: "Yeah, I\u2019m ok. Thank you for helping me. Your Sword skills is awesome!"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "Ahh thank you, I\u2019m so happy to help you.  "
+  - characterInformation: {fileID: 11400000, guid: 8985096735b9d324bb717c185ffb1e31,
+      type: 2}
+    text: You really use your power well to help people
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "I will always put everything you\u2019ve taught me into practice. But,
+      how did you get kidnapped by the skulls?"
+  - characterInformation: {fileID: 11400000, guid: 8985096735b9d324bb717c185ffb1e31,
+      type: 2}
+    text: "Ahh, it's a long story to tell you\u2026"
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: 'Hmm.. ok. '
+  - characterInformation: {fileID: 11400000, guid: 8985096735b9d324bb717c185ffb1e31,
+      type: 2}
+    text: So, now where should I go?
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Just go to Fairy Island, located on the outskirts of the village and there
+      are two welcome statues. I'll be there later
+  - characterInformation: {fileID: 11400000, guid: 8985096735b9d324bb717c185ffb1e31,
+      type: 2}
+    text: "Ok, I\u2019ll do it! See you.."

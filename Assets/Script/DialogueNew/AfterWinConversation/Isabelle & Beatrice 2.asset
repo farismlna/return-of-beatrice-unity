@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45eecf75598cb942af18d5878d5cad7, type: 3}
+  m_Name: Isabelle & Beatrice 2
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterInformation: {fileID: 11400000, guid: 170ba467ba3a12f43b716fd40aceb646,
+      type: 2}
+    text: "Welcome Beatrice to Fairy Island. You made it. I\u2019m proud of you."
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Owh yeah I did it!b Thank you Fairy Isabelle!
+  - characterInformation: {fileID: 11400000, guid: 170ba467ba3a12f43b716fd40aceb646,
+      type: 2}
+    text: Now you can meet everyone in the second Fairy Island!
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Wow! Thanks fairy Isabelle!

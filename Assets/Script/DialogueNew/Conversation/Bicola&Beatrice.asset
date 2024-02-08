@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45eecf75598cb942af18d5878d5cad7, type: 3}
+  m_Name: Bicola&Beatrice
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: Hi, who are you and what are you doing here?
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "Hi, I\u2019m Beatrice\u2026\r I have a mission to kill the skeletons that
+      attacked this village and I came here to get some weapons.\r\n"
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: Hmm.. how do you can tell that there are weapons in  this house?
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: From a Fairy
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: "Ok, I\u2019m Bicola. I\u2019m a weapon maker. "
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: "Wait, are you Bicola? I just saved your father\u2026 "
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: Oh really?
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Yes, He's been looking for you for a long time!
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: "Where\u2019s he right now? I miss him so much :("
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: 'He''s currently on Fairy Island. All the villagers who still alive will
+      move there to evacuate. '
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: "Where\u2019s fairy island? I want to go there."
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Located on the outskirts of the village and there are two statues that
+      will welcome you.
+  - characterInformation: {fileID: 11400000, guid: a0ce7a0d94081ec469c8fcad65fd9554,
+      type: 2}
+    text: Thanks a lot! and now you can choose the weapons you need.

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45eecf75598cb942af18d5878d5cad7, type: 3}
+  m_Name: Gryff&Beatrice
+  m_EditorClassIdentifier: 
+  dialogueInfo:
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Ahh my dad. I'm sorry for late to help you and all villagers ;(
+  - characterInformation: {fileID: 11400000, guid: d16de20bb7475534b84e823033eac40d,
+      type: 2}
+    text: Yeah, no problem my daughter. i'm so happy you look fine.
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: yes dad. Now, please go to the fairy island which is located on the outskirts
+      of the village. All villagers waiting there
+  - characterInformation: {fileID: 11400000, guid: d16de20bb7475534b84e823033eac40d,
+      type: 2}
+    text: But, will you go there soon?
+  - characterInformation: {fileID: 11400000, guid: 89654b036f4817340b05f1a27406d882,
+      type: 2}
+    text: Of course i will. But i must saved all villagers first.
+  - characterInformation: {fileID: 11400000, guid: d16de20bb7475534b84e823033eac40d,
+      type: 2}
+    text: Okey, be careful and goodluck!
